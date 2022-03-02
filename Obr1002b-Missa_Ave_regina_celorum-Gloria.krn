@@ -1,13 +1,13 @@
-!!!COM:	Obrecht, Jacob
-!!!CDT:	1458-1505/07/
-!!!OPR:	Missa Ave regina celorum
-!!!ONM:	2
-!!!OTL:	Gloria
-!!!AGN:	Mass; Gloria
-!!!SCT:	Obr1002b
-!!!SCA:	Obr1002b
-!!!voices-OPR:	4
-!!!voices:	4
+!!!COM: Obrecht, Jacob
+!!!CDT: 1458-1505/07/
+!!!OPR: Missa Ave regina celorum
+!!!ONM: 2
+!!!OTL: Gloria
+!!!AGN: Mass; Gloria
+!!!SCT: Obr1002b
+!!!SCA: Obr1002b
+!!!voices-OPR: 4
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1391,9 +1391,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Jesse Rodin 8/27/2013
-!!!END:	2013/08/27/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/29/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/29/ by Craig Sapp
+!!!ENC: Jesse Rodin 8/27/2013
+!!!END: 2013/08/27/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/29/
+!!!ONB: Translated from MusicXML and edited on 2013/08/29/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16

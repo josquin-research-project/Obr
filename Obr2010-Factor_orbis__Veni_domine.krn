@@ -1,10 +1,10 @@
-!!!COM:	Obrecht, Jacob
-!!!CDT:	1458-1505/07/
-!!!OTL:	Factor orbis / Veni domine
-!!!AGN:	Motet
-!!!SCT:	Obr2010
-!!!SCA:	Obr2010
-!!!voices:	5
+!!!COM: Obrecht, Jacob
+!!!CDT: 1458-1505/07/
+!!!OTL: Factor orbis / Veni domine
+!!!AGN: Motet
+!!!SCT: Obr2010
+!!!SCA: Obr2010
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -1351,9 +1351,9 @@
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: j=tied note group as single notehead
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 06/05/2005
-!!!END:	2012/11/11/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/01/03/
-!!!ONB:	Translated from MusicXML and edited on 2014/01/03/ by Craig Sapp
+!!!ENC: Jesse Rodin 06/05/2005
+!!!END: 2012/11/11/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/01/03/
+!!!ONB: Translated from MusicXML and edited on 2014/01/03/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,85,130Q8c110

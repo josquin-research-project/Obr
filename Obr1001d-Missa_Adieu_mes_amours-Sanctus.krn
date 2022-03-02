@@ -1,12 +1,12 @@
-!!!COM:	Obrecht, Jacob
-!!!CDT:	1458-1505/07/
-!!!OPR:	Missa Adieu mes amours
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	Obr1001d
-!!!SCA:	Obr1001d
-!!!voices:	4
+!!!COM: Obrecht, Jacob
+!!!CDT: 1458-1505/07/
+!!!OPR: Missa Adieu mes amours
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: Obr1001d
+!!!SCA: Obr1001d
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -945,9 +945,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin 2013
-!!!END:	2013/05/07/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/01/03/
-!!!ONB:	Translated from MusicXML and edited on 2014/01/03/ by Craig Sapp
+!!!ENC: Jesse Rodin 2013
+!!!END: 2013/05/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/01/03/
+!!!ONB: Translated from MusicXML and edited on 2014/01/03/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q8c110

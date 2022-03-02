@@ -1,13 +1,13 @@
 !!!COM: Obrecht, Jacob
 !!!CDT: 1458-1505/07
-!!!OPR:	Missa Adieu mes amours
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	Obr1001a
-!!!SCA:	Obr1001a
-!!!voices:	4
-!!!voices-OPR:	4
+!!!OPR: Missa Adieu mes amours
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: Obr1001a
+!!!SCA: Obr1001a
+!!!voices: 4
+!!!voices-OPR: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -389,7 +389,7 @@
 !!LO:LB:i:g=z
 =76||	=76||	=76||	=76||
 !!section: Kyrie II
-!!!OMD:	Kyrie II
+!!!OMD: Kyrie II
 *>C	*>C	*>C	*>C
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]
@@ -562,9 +562,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 09-06-2012
-!!!END:	2012/09/18/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/09/18/
-!!!ONB:	Translated from MusicXML and edited on 2012/09/18/ by Craig Sapp
+!!!ENC: Chris Gage 09-06-2012
+!!!END: 2012/09/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/09/18/
+!!!ONB: Translated from MusicXML and edited on 2012/09/18/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16c80
